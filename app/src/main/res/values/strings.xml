@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Elearning Pemrograman Mobile</string>
+    <string name="btn_alert">Tampilkan alert</string>
+    <string name="btn_tanggal">Pilih tanggal</string>
+</resources>
